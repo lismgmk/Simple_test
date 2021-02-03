@@ -3,7 +3,7 @@ const btn = document.querySelector('button'),
     text = document.querySelector('input'),
     arr = [
         { name: "Вова", age: 36},
-        { name: "Ира", age: 25},
+        { name: "vova", age: 25},
         { name: "Коля", age: 70}
     ];
     
